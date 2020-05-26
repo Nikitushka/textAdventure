@@ -5,16 +5,16 @@ Windows:
 
 `.\textAdventure.exe`
 
-[!windows](img/img1.png)
+[!windows](https://github.com/Nikitushka/textAdventure/blob/master/img/img1.png)
 
 Linux/MacOS:
 
 `./textAdventure`
 
-[!linux](img/img2.png)
+[!linux](https://github.com/Nikitushka/textAdventure/blob/master/img/img2.png)
 
 # The Game:
 The gameplay is relatively simple, you are given numerical options, and you choose which one you want.
 However, if you wish to be a Mr./Mrs. Smartypants about it, prepare for unforeseen consequences.
 
-[!gameplay](img/img3.png)
+[!gameplay](https://github.com/Nikitushka/textAdventure/blob/master/img/img3.png)
