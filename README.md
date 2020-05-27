@@ -27,7 +27,7 @@ Linux/MacOS terminal:
 ![linux](img/img2.png)
 
 # The Game:
-The gameplay is relatively simple, you are given numerical options, and you choose which one you want.
+The gameplay is relatively simple: you are given numerical options, and you choose which one you want.
 However, if you wish to be a Mr./Mrs. Smartypants about it, prepare for unforeseen consequences.
 
 ![gameplay](img/img3.png)
