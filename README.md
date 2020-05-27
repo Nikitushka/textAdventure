@@ -8,7 +8,7 @@ Clone this repository in the terminal of your choice:
 
 `git clone https://github.com/Nikitushka/textAdventure.git`
 
-Navigate into the cloned directory:
+Navigate into the cloned directory and the directory for the binary that can run on your system:
 
 `cd <path-to-directory>`
 
