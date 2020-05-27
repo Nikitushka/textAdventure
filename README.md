@@ -12,7 +12,7 @@ Navigate into the cloned directory:
 
 `cd <path-to-directory>`
 
-# Runing the binary:
+# Running the binary:
 
 Windows cmd/PowerShell: 
 
